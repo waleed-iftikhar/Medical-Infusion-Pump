@@ -1,0 +1,1 @@
+ main.d  main.p1:  D:/WALEED/live_person/Tahani/bandar/B_stepper/STEPPER/main.c D:/WALEED/live_person/Tahani/bandar/B_stepper/STEPPER/LCD.h

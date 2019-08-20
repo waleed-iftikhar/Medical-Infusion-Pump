@@ -1,0 +1,1 @@
+ LCD.d  LCD.p1:  D:/WALEED/live_person/Tahani/bandar/B_stepper/STEPPER/LCD.c D:/WALEED/live_person/Tahani/bandar/B_stepper/STEPPER/LCD.h
